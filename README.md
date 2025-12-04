@@ -1,5 +1,3 @@
-![Uploading image.png…]()
-[Technical_Report_FBP_Fuel_Update_PEI_2024.md](https://github.com/user-attachments/files/23918724/Technical_Report_FBP_Fuel_Update_PEI_2024.md)
 # FBP Fuel Type Update for Prince Edward Island (2024)
 ## Technical Report
 
